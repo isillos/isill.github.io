@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wotercanal.com" resolutions="1x" timestamp="1532712015977">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wotercanal.com" resolutions="1x" timestamp="1532805002420">
   <folder name="css">
     <file name="site_global.css" crc="67946008"/>
-    <file name="index.css" crc="263167930" ref="index"/>
-    <file name="________.css" crc="4193584284" ref="კომპანია"/>
-    <file name="_____-_______.css" crc="261279747" ref="ჩვენს-შესახებ"/>
+    <file name="index.css" crc="311382246" ref="index"/>
+    <file name="________.css" crc="99179828" ref="კომპანია"/>
+    <file name="_____-_______.css" crc="3973300599" ref="ჩვენს-შესახებ"/>
     <file name="iefonts______-_______.css" crc="304543406" ref="ჩვენს-შესახებ"/>
   </folder>
   <folder name="assets">
@@ -28,12 +28,12 @@
   </folder>
   <folder name="images">
     <file name="1.png" crc="448862636" seo="true" ref="კომპანია:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="კომპანია" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="flag-gruzii-animatsionnaya-kartinka-0005.gif" crc="472705858" seo="true" ref="კომპანია:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="კომპანია" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="259b5550ae698b288c30d87027821895.jpg" crc="3882210827" seo="true" ref="კომპანია">
       <caption webpage="კომპანია" alt=""/>
@@ -111,39 +111,39 @@
       <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="logo (1).png" crc="4092513561" seo="true" ref="კომპანია:ჩვენს-შესახებ:index">
+      <caption webpage="კომპანია" alt=""/>
       <caption webpage="ჩვენს-შესახებ" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="logo.png" crc="453337556" seo="true" ref="კომპანია:ჩვენს-შესახებ:index">
+      <caption webpage="კომპანია" alt=""/>
       <caption webpage="ჩვენს-შესახებ" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="logo_2x.png" crc="178681749" seo="true" ref="კომპანია:ჩვენს-შესახებ:index">
+      <caption webpage="კომპანია" alt=""/>
       <caption webpage="ჩვენს-შესახებ" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="logo_rgb_pixelgenau.gif" crc="232728251" seo="true" ref="კომპანია:ჩვენს-შესახებ:index">
+      <caption webpage="კომპანია" alt=""/>
       <caption webpage="ჩვენს-შესახებ" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="52.jpg" crc="4199388396" seo="true" ref="კომპანია:ჩვენს-შესახებ:index">
+      <caption webpage="კომპანია" alt=""/>
       <caption webpage="ჩვენს-შესახებ" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="tbc-logo-1.png" crc="524098106" seo="true" ref="კომპანია:ჩვენს-შესახებ:index">
+      <caption webpage="კომპანია" alt=""/>
       <caption webpage="ჩვენს-შესახებ" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="i9.png" crc="3800664589" ref="კომპანია:ჩვენს-შესახებ:index">
+      <caption webpage="კომპანია" alt=""/>
       <caption webpage="ჩვენს-შესახებ" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="кмксталь о компании.png" crc="3803500838" ref="კომპანია">
       <caption webpage="კომპანია" alt=""/>
@@ -151,19 +151,19 @@
       <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="23.png" crc="4083975074" ref="კომპანია:ჩვენს-შესახებ:index">
+      <caption webpage="კომპანია" alt=""/>
       <caption webpage="ჩვენს-შესახებ" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="d5e0586a3f3f519b4c5787da4cf7d910.png" crc="4262911012" ref="კომპანია:ჩვენს-შესახებ:index">
+      <caption webpage="კომპანია" alt=""/>
       <caption webpage="ჩვენს-შესახებ" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="contact-512.png" crc="4049878046" ref="კომპანია:ჩვენს-შესახებ:index">
+      <caption webpage="კომპანია" alt=""/>
       <caption webpage="ჩვენს-შესახებ" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="კომპანია" alt=""/>
     </file>
     <file name="1-u17670.png" crc="3846024572" ref="ჩვენს-შესახებ"/>
     <file name="flag-gruzii-animatsionnaya-kartinka-0005-u17659.png" crc="504639281" ref="ჩვენს-შესახებ"/>
@@ -283,7 +283,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="კომპანია.html" crc="332503301" seo="true" mt="1532706892382" redirect="true"/>
-  <file name="ჩვენს-შესახებ.html" crc="200183868" seo="true" mt="1532673418767" redirect="true"/>
-  <file name="index.html" crc="247232411" seo="true" mt="1532669564162" redirect="true"/>
+  <file name="კომპანია.html" crc="4227003763" seo="true" mt="1532706892382" redirect="true"/>
+  <file name="ჩვენს-შესახებ.html" crc="150593764" seo="true" mt="1532673418767" redirect="true"/>
+  <file name="index.html" crc="303520623" seo="true" mt="1532669564162" redirect="true"/>
 </manifest>
